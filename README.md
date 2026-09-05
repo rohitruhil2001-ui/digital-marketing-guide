@@ -4,4 +4,4 @@ Digital marketing helps businesses build their online presence, reach the right 
 
 This guide covers practical strategies related to SEO, content marketing, social media marketing, and online business growth.
 
-For more information, explore our [Digital Marketing Guide](therohitblog.com).
+For more information, explore our [Digital Marketing Guide](https://therohitblog.com/).
